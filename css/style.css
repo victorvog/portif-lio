@@ -334,6 +334,9 @@ section.detalhes-projeto p {
     font-size: 1em;
     line-height: 1.8;
   }
+  section.detalhes-projeto .flex {
+    flex-direction: column;
+  }
 
   section.contato .flex {
     display: flex;
