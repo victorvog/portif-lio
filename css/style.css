@@ -340,7 +340,7 @@ section.detalhes-projeto p {
 
   section.contato .flex {
     display: flex;
-    flex-direction: ailine;
+    flex-direction: row;
     align-items: center;
   }
 
