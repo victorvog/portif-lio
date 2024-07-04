@@ -295,8 +295,7 @@ section.detalhes-projeto p {
   }
 
   header nav ul li {
-    margin: 10px 0;
-    margin-left: 10px;
+ margin: 10px 0 0 10px;
   }
 
   .flex {
